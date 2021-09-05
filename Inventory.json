@@ -1,0 +1,219 @@
+{
+  "1001": {
+    "name": "Agarbatti",
+    "price": 20,
+    "quantity": 20,
+    "brand": "Cycle",
+    "expiry": "31-12-2022"
+  },
+  "1002": {
+    "name": "BournVita",
+    "price": 60,
+    "quantity": 4,
+    "brand": "Cadbury",
+    "expiry": "02-12-2022"
+  },
+  "1003": {
+    "name": "Cadbury",
+    "price": 10,
+    "quantity": 40,
+    "brand": "DairyMilk",
+    "expiry": "23-12-2022"
+  },
+  "1004": {
+    "name": "Noodles",
+    "price": 40,
+    "quantity": 100,
+    "brand": "Chings",
+    "expiry": "12-12-2022"
+  },
+  "1005": {
+    "name": "Wafers",
+    "price": 10,
+    "quantity": 30,
+    "brand": "Nestle",
+    "expiry": "01-12-2022"
+  },
+  "1006": {
+    "name": "Curd",
+    "price": 15,
+    "quantity": 40,
+    "brand": "Amul",
+    "expiry": "22-12-2022"
+  },
+  "1007": {
+    "name": "Bisleri",
+    "price": 20,
+    "quantity": 20,
+    "brand": "Bisleri",
+    "expiry": "17-12-2022"
+  },
+  "1008": {
+    "name": "Mountain Dew",
+    "price": 5,
+    "quantity": 30,
+    "brand": "7up",
+    "expiry": "07-12-2022"
+  },
+  "1009": {
+    "name": "KitKat",
+    "price": 10,
+    "quantity": 20,
+    "brand": "Nestle",
+    "expiry": "13-12-2022"
+  },
+  "1010": {
+    "name": "Cinthol Soap",
+    "price": 20,
+    "quantity": 25,
+    "brand": "Godrej",
+    "expiry": "13-12-2022"
+  },
+  "1011": {
+    "name": "Oreo",
+    "price": 30,
+    "quantity": 30,
+    "brand": "Cadbury",
+    "expiry": "18-12-2022"
+  },
+  "1012": {
+    "name": "Milk",
+    "price": 46,
+    "quantity": 20,
+    "brand": "Amul",
+    "expiry": "01-12-2022"
+  },
+  "1013": {
+    "name": "Honey",
+    "price": 45,
+    "quantity": 18,
+    "brand": "Dabur",
+    "expiry": "28-12-2022"
+  },
+  "1014": {
+    "name": "Camphor",
+    "price": 10,
+    "quantity": 10,
+    "brand": "Cycle",
+    "expiry": "07-12-2022"
+  },
+  "1015": {
+    "name": "Soda",
+    "price": 20,
+    "quantity": 8,
+    "brand": "Bisleri",
+    "expiry": "24-12-2022"
+  },
+  "1016": {
+    "name": "Inhaler",
+    "price": 20,
+    "quantity": 7,
+    "brand": "Vicks",
+    "expiry": "07-12-2022"
+  },
+  "1017": {
+    "name": "Shampoo",
+    "price": 40,
+    "quantity": 10,
+    "brand": "Beardo",
+    "expiry": "25-12-2022"
+  },
+  "1018": {
+    "name": "Butter",
+    "price": 50,
+    "quantity": 9,
+    "brand": "Amul",
+    "expiry": "14-12-2022"
+  },
+  "1019": {
+    "name": "Tomato Sauce",
+    "price": 20,
+    "quantity": 30,
+    "brand": "Kissan",
+    "expiry": "11-12-2022"
+  },
+  "1020": {
+    "name": "Hair Oil",
+    "price": 15,
+    "quantity": 12,
+    "brand": "Parachute",
+    "expiry": "18-12-2022"
+  },
+  "1021": {
+    "name": "Eclairs",
+    "price": 1,
+    "quantity": 80,
+    "brand": "Cadbury",
+    "expiry": "29-12-2022"
+  },
+  "1022": {
+    "name": "Matchbox",
+    "price": 5,
+    "quantity": 100,
+    "brand": "Aim",
+    "expiry": "09-12-2022"
+  },
+  "1023": {
+    "name": "Mango Pickle",
+    "price": 30,
+    "quantity": 15,
+    "brand": "Nillons",
+    "expiry": "30-12-2022"
+  },
+  "1024": {
+    "name": "Papad",
+    "price": 25,
+    "quantity": 40,
+    "brand": "Lijjat",
+    "expiry": "11-12-2022"
+  },
+  "1025": {
+    "name": "Idli Mix",
+    "price": 40,
+    "quantity": 12,
+    "brand": "MDH",
+    "expiry": "03-12-2022"
+  },
+  "1026": {
+    "name": "Soan Cake",
+    "price": 30,
+    "quantity": 8,
+    "brand": "Haldiram",
+    "expiry": "18-12-2022"
+  },
+  "1027": {
+    "name": "Toast",
+    "price": 22,
+    "quantity": 40,
+    "brand": "Rusk",
+    "expiry": "17-12-2022"
+  },
+  "1028": {
+    "name": "Coffee",
+    "price": 10,
+    "quantity": 20,
+    "brand": "Bru",
+    "expiry": "29-12-2022"
+  },
+  "1029": {
+    "name": "Tea",
+    "price": 10,
+    "quantity": 40,
+    "brand": "Soceity",
+    "expiry": "10-12-2022"
+  },
+  "1030": {
+    "name": "Batttery",
+    "price": 30,
+    "quantity": 4,
+    "brand": "DuraCell",
+    "expiry": "11-12-2022"
+  },
+  "1031": {
+    "name": "Salt",
+    "price": 20,
+    "quantity": 4,
+    "brand": "Tata",
+    "expiry": "21-12-2022"
+  }
+}
